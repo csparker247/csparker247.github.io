@@ -1,3 +1,8 @@
+---
+title: C. Seth Parker
+subtitle: Digital restoration researcher and programmer at the University of Kentucky EduceLab
+---
+
 I'm a programmer and researcher working for the [EduceLab](http://cs.uky.edu/dri) at the University of Kentucky. I'm interested in computer vision, graphics, machine learning, and the films of Whit Stillman.
 
 Curriculum Vitae ([PDF](curriculum-vitae.pdf))

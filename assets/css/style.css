@@ -1,0 +1,21 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.homepage-wrapper {
+  width: 860px;
+  margin: 0 auto;
+}
+
+.homepage-header {
+  float: left;
+  position: fixed;
+  width: 270px;
+}
+
+.homepage-content {
+  float: right;
+  width: 500px;
+}
